@@ -20,3 +20,16 @@ As a user I should be able to amend my order :)
 - functional
 - separation of concerns
 - it should handle errors
+
+Git Clone 
+ ```python
+
+git clone git@github.com:victorsibanda/open_write_files_exercises.git
+
+
+```
+
+Run program
+```python
+run_task.py
+```
